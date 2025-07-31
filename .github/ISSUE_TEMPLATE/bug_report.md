@@ -45,5 +45,4 @@ Si es posible, añade capturas de pantalla o registros de errores.
 - Versión del proyecto: [p. ej., 1.0.0]
 
 ### Información adicional
-
 Cualquier otra información relevante.
